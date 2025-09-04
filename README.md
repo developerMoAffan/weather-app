@@ -2,6 +2,7 @@
 
 A simple Python weather application built while following [Dave Gray's Python Course](https://www.youtube.com/).
 The app fetches real-time weather data using an external API and displays it in a user-friendly way.
+🌐 Live Demo: https://weather-app-h6cd.onrender.com/
 
 ---
 
@@ -11,6 +12,7 @@ The app fetches real-time weather data using an external API and displays it in 
 * Shows temperature, weather condition, and more
 * Uses `requests` for API calls
 * Environment variables managed with `python-dotenv`
+* Deployed on Render
 
 ---
 
@@ -77,13 +79,6 @@ weather-app/
 │-- .gitignore
 │-- .venv/
 ```
-
----
-
-## 📝 Notes
-
-* This project was created as a learning exercise from Dave Gray’s Python Course.
-* Feel free to fork and extend it — e.g., add a GUI with Tkinter, or display 5-day forecasts.
 
 ---
 
